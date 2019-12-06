@@ -1,0 +1,19 @@
+body {
+    background-color: #111;
+}
+
+.carousel img {
+    max-width: 380px;
+}
+
+.carousel {
+    position: absolute;
+    right: 40px;
+    top: 240px;
+}
+
+.carousel2 {
+    position: absolute;
+    right: 40px;
+    top: 1200px;
+}

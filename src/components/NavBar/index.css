@@ -1,0 +1,19 @@
+nav{
+    margin-bottom: 4.5%;
+}
+
+#navBar{
+    width: 270px;
+    height: 20px;
+    left: 37%;
+    position: absolute;
+    top: 17%;
+    z-index: 0;
+}
+#navBar a{
+    padding-right:10px;
+}
+
+.navLinkSelected{
+    color: rgb(250, 221, 144);
+}
